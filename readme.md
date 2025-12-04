@@ -36,25 +36,7 @@
           Inspection Lot Generated / Procurement Blocked
 
 
-4. Prerequisites
-
-        Before creating the QIR, ensure the following are in place:
-        
-            A) Material Master 
-          
-                    Activate Inspection Type 01 – Goods Receipt
-                    Tick Post to Inspection Stock
-            
-            B) Vendor Master
-
-                    Vendor should exist under required purchasing organization.
-            
-            C) Info Record
-            
-                    Create/update Vendor–Material Info Record 
-
-
-5. Key Learning Outcomes
+4. Key Learning Outcomes
 
         By completing this project, you demonstrate:
         SAP QM integration with Procurement
