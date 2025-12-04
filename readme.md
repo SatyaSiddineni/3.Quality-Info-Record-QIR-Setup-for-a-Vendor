@@ -49,7 +49,7 @@
    
             Purpose	                        Transaction
             Maintain Vendor Master	            XK02
-            Maintain Material Master	            MM02
+            Maintain Material Master	          MM02
             Create QIR	                        QI01
             Change QIR	                        QI02
             Display QIR	                        QI03
