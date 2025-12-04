@@ -3,10 +3,10 @@
 
 1. Project Overview
 
-      This project demonstrates the complete setup and usage of Quality Info Records (QIR) in SAP QM for controlling vendor quality during the procurement cycle.
-      As an SAP QM Functional Consultant, this project highlights your understanding of Quality Management integration with Materials Management (MM) — without any coding.
+            This project demonstrates the complete setup and usage of Quality Info Records (QIR) in SAP QM for controlling vendor quality during the procurement cycle.
+            As an SAP QM Functional Consultant, this project highlights your understanding of Quality Management integration with Materials Management (MM) — without any coding.
       
-      A QIR ensures that only approved vendors can supply materials and defines quality-related controls such as inspection type, release status, certificate requirements, and skip logic.
+            A QIR ensures that only approved vendors can supply materials and defines quality-related controls such as inspection type, release status, certificate requirements, and skip logic.
 
 
 2. Business Scenario
