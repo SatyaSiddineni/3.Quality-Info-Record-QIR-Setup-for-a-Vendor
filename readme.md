@@ -38,11 +38,23 @@
 
 4. Key Learning Outcomes
 
-        By completing this project, you demonstrate:
-        SAP QM integration with Procurement
-        Master data dependencies
-        QIR release/blocked logic
-        Inspection lot generation
+            By completing this project, you demonstrate:
+            SAP QM integration with Procurement
+            Master data dependencies
+            QIR release/blocked logic
+            Inspection lot generation
+
+
+5. SAP Transactions Used
+   
+            **Purpose	                        Transaction**
+            Maintain Vendor Master	            XK02
+            Maintain Material Master	MM02
+            Create QIR	                        QI01
+            Change QIR	                        QI02
+            Display QIR	                        QI03
+            Goods Receipt for PO                MIGO
+            Display Inspection Lot	            QA03
 
 🙌 Author
 
