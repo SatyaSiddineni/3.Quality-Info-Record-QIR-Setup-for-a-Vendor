@@ -40,7 +40,7 @@
 
         Before creating the QIR, ensure the following are in place:
         
-            A) Material Master (MM02)
+            A) Material Master 
           
                     Activate Inspection Type 01 – Goods Receipt
                     Tick Post to Inspection Stock
@@ -51,7 +51,7 @@
             
             C) Info Record
             
-                    Create/update Vendor–Material Info Record (ME11/ME12)
+                    Create/update Vendor–Material Info Record 
 
 
 5. Key Learning Outcomes
