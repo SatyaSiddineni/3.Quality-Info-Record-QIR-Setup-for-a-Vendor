@@ -50,16 +50,19 @@
 
 5. Project Structure
 
-Quality Info Record (QIR)/
-│── readme.md
-│── Dataset/
-│     └── In-Process-Inspection-Dataset.xlsx
-│
-│── Flowchart/
-│     └── Flowchart.pdf
-│
-└── Documentation/
-      └── Step by Step Process Flow.pdf
+            Quality Info Record (QIR)/
+            │── README.md
+            │
+            │── Dataset/
+            │     ├── Quality Info Record (QIR) Dataset.xlsx
+            │
+            │── Flowchart/
+            │     └── In-Process-Inspection-Flowchart.png
+            │
+            └── Documentation/
+                  └── Project Overview.pdf
+                  └── Step by step process flow.pdf
+
 
 
 🙌 Author
