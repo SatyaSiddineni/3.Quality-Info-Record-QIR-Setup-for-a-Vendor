@@ -56,9 +56,6 @@
             │── Dataset/
             │     ├── Quality Info Record (QIR) Dataset.xlsx
             │
-            │── Flowchart/
-            │     └── In-Process-Inspection-Flowchart.png
-            │
             └── Documentation/
                   └── Project Overview.pdf
                   └── Step by step process flow.pdf
