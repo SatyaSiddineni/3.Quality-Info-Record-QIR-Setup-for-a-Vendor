@@ -36,16 +36,7 @@
           Inspection Lot Generated / Procurement Blocked
 
 
-4. Key Learning Outcomes
-
-            By completing this project, you demonstrate:
-            SAP QM integration with Procurement
-            Master data dependencies
-            QIR release/blocked logic
-            Inspection lot generation
-
-
-5. SAP Transactions Used
+4. SAP Transactions Used
    
             Purpose	                        Transaction
             Maintain Vendor Master	            XK02
@@ -55,6 +46,21 @@
             Display QIR	                        QI03
             Goods Receipt for PO                MIGO
             Display Inspection Lot	            QA03
+
+
+5. Project Structure
+
+Quality Info Record (QIR)/
+│── readme.md
+│── Dataset/
+│     └── In-Process-Inspection-Dataset.xlsx
+│
+│── Flowchart/
+│     └── Flowchart.pdf
+│
+└── Documentation/
+      └── Step by Step Process Flow.pdf
+
 
 🙌 Author
 
