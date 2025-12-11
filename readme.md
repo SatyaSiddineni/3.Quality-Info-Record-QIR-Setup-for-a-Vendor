@@ -50,15 +50,15 @@
 
 5. Project Structure
 
-   Quality Info Record (QIR)/
-   │── README.md
-   │
-   │── Dataset/
-   │     ├── Quality Info Record (QIR) Dataset.xlsx
-   │
-   └── Documentation/
-         └── Project Overview.pdf
-         └── Step by step process flow.pdf
+               Quality Info Record (QIR)/
+               │── README.md
+               │
+               │── Dataset/
+               │     ├── Quality Info Record (QIR) Dataset.xlsx
+               │
+               └── Documentation/
+                     └── Project Overview.pdf
+                     └── Step by step process flow.pdf
 
 
 
