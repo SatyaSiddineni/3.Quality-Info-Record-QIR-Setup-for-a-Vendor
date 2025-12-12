@@ -53,8 +53,8 @@
                Quality Info Record (QIR)/
                │── README.md
                │
-               │── Dataset/
-               │     ├── Quality Info Record (QIR) Dataset.xlsx
+               │── Test data/
+               │     └── Quality Info Record (QIR) Sample test data.xlsx.xlsx
                │
                └── Documentation/
                      └── Project Overview.pdf
