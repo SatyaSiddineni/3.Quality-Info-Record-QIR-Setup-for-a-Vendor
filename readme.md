@@ -54,7 +54,7 @@
                │── README.md
                │
                │── Test data/
-               │     └── Quality Info Record (QIR) Sample test data.xlsx.xlsx
+               │     └── Quality Info Record (QIR) Sample test data.xlsx
                │
                └── Documentation/
                      └── Project Overview.pdf
