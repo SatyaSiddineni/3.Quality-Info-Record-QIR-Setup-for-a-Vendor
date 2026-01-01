@@ -11,54 +11,54 @@
 
 2. Business Scenario
 
-      A manufacturing company wants to ensure that procurement is executed only through quality-approved vendors. A Quality Info Record is created to manage:
-          
-          Vendor approval for specific materials
-          Inspection requirements at Goods Receipt
-          Blocking procurement for unapproved vendors
-          Managing validity and quality system certifications
+            A manufacturing company wants to ensure that procurement is executed only through quality-approved vendors. A Quality Info Record is created to manage:
+                      
+                        Vendor approval for specific materials
+                        Inspection requirements at Goods Receipt
+                        Blocking procurement for unapproved vendors
+                        Managing validity and quality system certifications
 
  
 3. Process Flow
    
-          Material Master (QM View Setup)
-                  ↓
-          Purchasing Info Record (Vendor + Material)
-                  ↓
-          Create Quality Info Record (QI01)
-                  ↓
-          Maintain Release/Block Status + Inspection Controls
-                  ↓
-          Test with Purchase Order (ME21N)
-                  ↓
-          Goods Receipt (MIGO)
-                  ↓
-          Inspection Lot Generated / Procurement Blocked
+            Material Master (QM View Setup)
+                              ↓
+            Purchasing Info Record (Vendor + Material)
+                              ↓
+            Create Quality Info Record (QI01)
+                              ↓
+            Maintain Release/Block Status + Inspection Controls
+                              ↓
+            Test with Purchase Order (ME21N)
+                              ↓
+            Goods Receipt (MIGO)
+                              ↓
+            Inspection Lot Generated / Procurement Blocked
 
 
 4. SAP Transactions Used
    
-            Purpose	                        Transaction
-            Maintain Vendor Master	            XK02
-            Maintain Material Master	          MM02
-            Create QIR	                        QI01
-            Change QIR	                        QI02
-            Display QIR	                        QI03
-            Goods Receipt for PO                MIGO
-            Display Inspection Lot	            QA03
+            T-Code                      Purpose	                        
+            XK02                        Maintain Vendor Master	            
+            MM02                        Maintain Material Master	          
+            QI01                        Create QIR	                        
+            QI02                        Change QIR	                        
+            QI03                        Display QIR	                        
+            MIGO                        Goods Receipt for PO                
+            QA03                        Display Inspection Lot	            
 
 
 5. Project Structure
 
-               Quality Info Record (QIR)/
-               │── README.md
-               │
-               │── Test data/
-               │     └── Quality Info Record (QIR) Sample test data.xlsx
-               │
-               └── Documentation/
-                     └── Project Overview.pdf
-                     └── Step by step process flow.pdf
+            Quality Info Record (QIR)/
+            │── README.md
+            │
+            │── Test data/
+            │     └── Quality Info Record (QIR) Sample test data.xlsx
+            │
+            └── Documentation/
+                  │── Project Overview.pdf
+                  └── Step by step process flow.pdf
 
 
 
