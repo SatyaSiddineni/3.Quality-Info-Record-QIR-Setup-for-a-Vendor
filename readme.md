@@ -51,15 +51,14 @@
 5. Project Structure
 
             Quality Info Record (QIR)/
+            │
             │── README.md
+            │── Documentation/
+            │     │── Project Overview.pdf
+            │     └── Step by step process flow.pdf
             │
-            │── Test data/
-            │     └── Quality Info Record (QIR) Sample test data.xlsx
-            │
-            └── Documentation/
-                  │── Project Overview.pdf
-                  └── Step by step process flow.pdf
-
+            └── Test data/
+                  └── Quality Info Record (QIR) Sample test data.xlsx
 
 
 🙌 Author
